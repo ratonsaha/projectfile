@@ -1,0 +1,40 @@
+h1 {
+    color:white;
+    background: purple;
+ }
+ lable{
+    color:white;
+    background: purple;
+ }
+ div{
+   width: 400px;
+   padding:10px;
+   border:2px solid red;
+   margin:0px;
+   text-align:justify;
+   background-image: url(pic/Nature01.jpg);
+ }
+ form input{
+   background-color:aqua;
+ }
+ form input:hover{
+   background-color: cadetblue;
+ }
+ form input:focus{
+   background-color: rgb(250, 00, 00);
+ }
+ p::first-line{
+   color:blue;
+   font-variant: small-caps;
+   font-size:15px;
+ }
+ p::first-letter{
+   color:red;
+   font-size:30px
+ }
+ body{
+   background-color:rgb(144, 76, 233);
+ }
+ /* body{
+   background-image: url(0011.jpg);
+ } */
